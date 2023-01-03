@@ -1,0 +1,12 @@
+API é um lugar para disponibilizar recursos e/ou funcionalidades
+
+1. objetivo - Criar uma api que disponibiliza a consulta, criação, edição e exclusão de livros
+2. url base - localhost
+3. endpoints 
+    - localhost/livros (GET) - pega todos os livros
+    - localhost/livros (POST) - cria um livro
+    - localhost/livros/id (GET) - pega um livro
+    - localhost/livros/id (PUT) - alterar um livro
+    - localhost/livros/id (DELETE) - remover um livro
+4. recursos - Livros
+
