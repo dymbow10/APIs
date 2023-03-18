@@ -1,0 +1,6 @@
+1 - nodejs server on port 3000
+2 - Handle route "/" and "/users"
+-> greeting on "/"
+-> fake userlist on "/users"
+3 - add a form with a "username" input to the "/" page and submit a POST request to "/create-user" when button is clicked
+4 - Add the "/create-user" route and parse the incoming data and log it on the console + redirect to a page
